@@ -1,0 +1,11 @@
+.banner{
+
+    height: 650px;
+}
+
+.fondo{
+
+    background-image: url("img/coldplayfondo.jpg");
+    height: 600px;
+    background-attachment: fixed;
+}
